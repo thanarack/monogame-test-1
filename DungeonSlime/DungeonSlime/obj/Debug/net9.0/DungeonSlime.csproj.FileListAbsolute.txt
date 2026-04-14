@@ -33,3 +33,4 @@
 /home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.pdb
 /home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.genruntimeconfig.cache
 /home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/obj/Debug/net9.0/ref/DungeonSlime.dll
+/home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/obj/Debug/net9.0/DungeonSlime.sourcelink.json

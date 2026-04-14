@@ -10,3 +10,4 @@
 /home/bank/Projects/monogame-1/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
 /home/bank/Projects/monogame-1/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
 /home/bank/Projects/monogame-1/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll
+/home/bank/Projects/monogame-1/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.sourcelink.json
