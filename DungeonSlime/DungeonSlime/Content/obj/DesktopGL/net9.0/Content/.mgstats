@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/Content/images/logo.png","/home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0722098
+"/home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/Content/images/pong-atlas.png","/home/bank/Projects/monogame-1/DungeonSlime/DungeonSlime/Content/bin/DesktopGL/Content/images/pong-atlas.xnb","TextureProcessor","Texture2DContent",4746,663637,0.1023782
