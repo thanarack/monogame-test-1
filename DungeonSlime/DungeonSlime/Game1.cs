@@ -53,8 +53,6 @@ public class Game1 : Core
 
     private void CheckKeyboardInput()
     {
-        KeyboardState keyboardState = Keyboard.GetState();
-
         float speed = MOVEMENT_SPEED;
         if (Input.Keyboard.IsKeyDown(Keys.Space))
         {
@@ -77,6 +75,13 @@ public class Game1 : Core
         {
             _slimePosition.X += speed;
         }
+
+        if (Input.Keyboard.WasKeyJustPressed(Keys.M))
+        {
+            System.Diagnostics.Debug.WriteLine("I Just Press {0}", "M");
+        }
+
+
     }
 
     private void CheckGamePadInput()
